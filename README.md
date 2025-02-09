@@ -1,7 +1,8 @@
 ### 👋 Hello, I'm Yassine FEDDOUL!
 
 🔹 PhD in Computer Science | Robotic Perception | Digital Twin | Artificial Intelligence
-🔹 Passionate about Industry 5.0, Robotics, and Artificial Intelligence  
+
+🔹Passionate about Industry 5.0, Robotics, and Artificial Intelligence  
 🔹 Contributor to open-source projects & industrial applications  
 
 🚀 **Technologies I Work With:**  
