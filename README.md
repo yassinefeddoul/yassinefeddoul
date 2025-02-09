@@ -10,4 +10,4 @@
 - **Industry 4.0**: Digital Twin, IoT, OPC-UA  
 - **Robotics**: ROS (Robot Operating System), Augmented Perception  
 
-📫 Let's connect on [LinkedIn](https://linkedin.com/in/yassinefeddoul-0620441ab/) or check out my projects below!  
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/yassine-feddoul-0620441ab/) or check out my projects below!  
