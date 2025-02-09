@@ -8,7 +8,8 @@
 🚀 **Technologies I Work With:**  
 - **Programming**: Python, C, Java, SQL, JavaScript, C#
 - **Artificial Intelligence**: Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning
-- **Industry 4.0**: Digital Twin, IoT, OPC-UA  
-- **Robotics**: ROS (Robot Operating System), Augmented Perception  
+- **Industry 5.0**: Digital Twin, IoT, OPC-UA  
+- **Robotics**: ROS (Robot Operating System), Augmented Perception
+- **Robotic platforms**: Tiago++ (ROS Noetic), MIR100 (ROS Kinetic)  
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/yassine-feddoul-0620441ab/) or check out my projects below!  
