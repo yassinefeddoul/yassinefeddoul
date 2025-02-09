@@ -7,7 +7,7 @@
 
 🚀 **Technologies I Work With:**  
 - **Programming**: Python, C, Java, SQL, JavaScript, C#
-- **Artificial Intelligence**: Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning
+- **Artificial Intelligence**: Machine Learning, Deep Learning, Computer Vision, Image Processing, Reinforcement Learning
 - **Industry 5.0**: Digital Twin, IoT, OPC-UA  
 - **Robotics**: ROS (Robot Operating System), Augmented Perception
 - **Robotic platforms**: Tiago++ (ROS Noetic), MIR100 (ROS Kinetic)  
